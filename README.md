@@ -51,9 +51,9 @@ Top5 most significant features in Lasso are:
 
 
 
-##Optimal Value of lamda for Ridge is 10
+## Optimal Value of lamda for Ridge is 10
 
-##Optimal Value of lamda for Lasso is 0.001
+## Optimal Value of lamda for Lasso is 0.001
 
 
 Ridge Regression did better than Lasso Regression when R2 is compared.
