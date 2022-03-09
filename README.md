@@ -34,20 +34,20 @@ The company wants to know:
 
 Top5 most significant features in Ridge are:
 
-('SaleType_Oth', 0.063),
-('SaleType_WD', 0.067),
-('SaleCondition_Normal', 0.085),
-('SaleCondition_Others', 0.09),
-('SaleCondition_Partial', 0.099)
+* ('SaleType_Oth', 0.063),
+* ('SaleType_WD', 0.067),
+* ('SaleCondition_Normal', 0.085),
+* ('SaleCondition_Others', 0.09),
+* ('SaleCondition_Partial', 0.099)
 
 
 Top5 most significant features in Lasso are:
 
-('SaleType_Oth', 0.065),
-('SaleType_WD', 0.072),
-('SaleCondition_Normal', 0.097),
-('SaleCondition_Others', 0.101),
-('SaleCondition_Partial', 0.106)
+* ('SaleType_Oth', 0.065),
+* ('SaleType_WD', 0.072),
+* ('SaleCondition_Normal', 0.097),
+* ('SaleCondition_Others', 0.101),
+* ('SaleCondition_Partial', 0.106)
 
 
 
